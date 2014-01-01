@@ -1,0 +1,30 @@
+{
+  "name": "persona-interceptor",
+  "version": "0.0.0",
+  "description": "Rest.js interceptor for persona login",
+  "main": "persona.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phated/persona-interceptor"
+  },
+  "keywords": [
+    "persona",
+    "interceptor",
+    "rest",
+    "promises"
+  ],
+  "author": "Blaine Bublitz <blaine@iceddev.com> (http://iceddev.com/)",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "57fcf847ab5bf56516bf69cd0322bb062c216e01",
+  "bugs": {
+    "url": "https://github.com/phated/persona-interceptor/issues"
+  },
+  "dependencies": {
+    "when": "~2.7.1",
+    "rest": "~1.0.0"
+  }
+}
